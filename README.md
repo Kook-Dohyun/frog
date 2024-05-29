@@ -7,3 +7,5 @@
 
 An example application built with dart_frog
 
+[PostMan](https://web.postman.co/workspace/My-Workspace~a28df6c9-bc7e-442d-8422-8a39bf0d2803/request/create?requestId=f7ef1d8e-6f0c-4914-afd2-eeeb748a05c7)
+[LocalServer](http://localhost:8080/)
